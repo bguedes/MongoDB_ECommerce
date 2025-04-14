@@ -9,6 +9,7 @@
     "client": "npm run dev --prefix frontend",
     "dev": "concurrently \"npm run server\" \"npm run dev --prefix frontend\"",
     "data:import": "node backend/seeder.js",
+    "data:newProduct": "node backend/seederAdd.js",
     "data:destroy": "node backend/seeder.js -d"
   },
   "keywords": [],

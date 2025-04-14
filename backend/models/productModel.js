@@ -83,6 +83,11 @@ const productSchema = new mongoose.Schema({
         required: true,
         default: 0,
     },
+    attributes: {
+        type: Map,
+        of: String | Number,
+        required: true,
+    },
     countInStock: {
         type: Number,
         required: true,

@@ -37,7 +37,16 @@ const ProductScreen = () => {
                         <Rating value={product.rating} text={`${product.numReviews} reviews`} />
                     </ListGroup.Item>
                     <ListGroup.Item><strong>Description : </strong>{product.description}</ListGroup.Item>
-
+                    <ListGroup variant='flush'>
+                        <ListGroup.Item>
+                            <h5>Attributes: </h5>
+                            {product.attributes && Object.entries(product.attributes).map(([key, value]) => (
+                                <p key={key}>
+                                    <strong>{key}:</strong> {value.toString()}
+                                </p>
+                            ))}
+                        </ListGroup.Item>
+                    </ListGroup>
                 </ListGroup>
             </Col>
             <Col md={3}>
