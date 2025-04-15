@@ -1,0 +1,214 @@
+[
+{
+    "orderNumber": "ORD-F41FAE820A24",
+    "customer": {
+        "id": "CUST-233535",
+        "email": "vtorres@example.com",
+        "shippingAddress": {
+            "street": "55662 Jensen Isle",
+            "city": "Johnsonstad",
+            "postalCode": "68459",
+            "country": "United States"
+        },
+        "billingAddress": {
+            "street": "55662 Jensen Isle",
+            "city": "Johnsonstad",
+            "postalCode": "68459",
+            "country": "United States"
+        }
+    },
+    "items": [
+        {
+            "sku": "PROD-0008278",
+            "name": "Produit 0008278 - Variante",
+            "quantity": {
+                "$numberInt": "1"
+            },
+            "price": {
+                "amount": {
+                    "$numberInt": "599.99"
+                },
+                "currency": "USD"
+            },
+            "discount": null
+        }
+    ],
+    "payment": {
+        "method": "APPLE_PAY",
+        "transactionId": "TXN-48B9A224E17B",
+        "status": "COMPLETED"
+    },
+    "totals": {
+        "subtotal": {
+            "amount": {
+                "$numberInt": "599.99"
+            },
+            "currency": "USD"
+        },
+        "tax": {
+            "amount": {
+                "$numberDouble": "65.68"
+            },
+            "currency": "USD"
+        },
+        "shipping": {
+            "amount": {
+                "$numberDouble": "0.0"
+            },
+            "currency": "USD"
+        },
+        "discount": null,
+        "grandTotal": {
+            "amount": {
+                "$numberDouble": "886.6800000000001"
+            },
+            "currency": "USD"
+        }
+    },
+    "status": "DELIVERED",
+    "statusHistory": [
+        {
+            "status": "CREATED",
+            "timestamp": "2025-03-02T10:28:44.160666"
+        },
+        {
+            "status": "PAYMENT_RECEIVED",
+            "timestamp": "2025-03-02T10:34:44.160666"
+        },
+        {
+            "status": "PROCESSING",
+            "timestamp": "2025-03-02T17:52:44.160666"
+        },
+        {
+            "status": "SHIPPED",
+            "timestamp": "2025-03-03T08:52:44.160666"
+        },
+        {
+            "status": "DELIVERED",
+            "timestamp": "2025-03-03T20:52:44.160666"
+        }
+    ],
+    "shipping": {
+        "method": "PRIORITY",
+        "carrier": "DHL",
+        "trackingNumber": "UPS-5F212F3114",
+        "estimatedDelivery": "2025-03-04T10:28:44.160666"
+    },
+    "sourceChannel": "MOBILE_APP",
+    "deviceInfo": {
+        "type": "OTHER",
+        "os": "WINDOWS",
+        "browser": "CHROME"
+    },
+    "region": "US",
+    "warehouseId": "CHICAGO-01",
+    "created": "2025-03-02T10:28:44.160666",
+    "updated": "2025-03-03T20:52:44.160666"
+},
+{
+    "orderNumber": "ORD-T41FAE830A24",
+    "customer": {
+        "id": "CUST-233535",
+        "email": "vtorres@example.com",
+        "shippingAddress": {
+            "street": "55662 Jensen Isle",
+            "city": "Johnsonstad",
+            "postalCode": "68459",
+            "country": "United States"
+        },
+        "billingAddress": {
+            "street": "55662 Jensen Isle",
+            "city": "Johnsonstad",
+            "postalCode": "68459",
+            "country": "United States"
+        }
+    },
+    "items": [
+        {
+            "sku": "PROD-0008280",
+            "name": "Airpods Wireless Bluetooth Headphones",
+            "quantity": {
+                "$numberInt": "1"
+            },
+            "price": {
+                "amount": {
+                    "$numberInt": "89.99"
+                },
+                "currency": "USD"
+            },
+            "discount": null
+        }
+    ],
+    "payment": {
+        "method": "APPLE_PAY",
+        "transactionId": "TXN-54B9A224G17B",
+        "status": "COMPLETED"
+    },
+    "totals": {
+        "subtotal": {
+            "amount": {
+                "$numberInt": "89.99"
+            },
+            "currency": "USD"
+        },
+        "tax": {
+            "amount": {
+                "$numberDouble": "15.68"
+            },
+            "currency": "USD"
+        },
+        "shipping": {
+            "amount": {
+                "$numberDouble": "0.0"
+            },
+            "currency": "USD"
+        },
+        "discount": null,
+        "grandTotal": {
+            "amount": {
+                "$numberDouble": "886.6800000000001"
+            },
+            "currency": "USD"
+        }
+    },
+    "status": "DELIVERED",
+    "statusHistory": [
+        {
+            "status": "CREATED",
+            "timestamp": "2025-03-02T10:28:44.160666"
+        },
+        {
+            "status": "PAYMENT_RECEIVED",
+            "timestamp": "2025-03-02T10:34:44.160666"
+        },
+        {
+            "status": "PROCESSING",
+            "timestamp": "2025-03-02T17:52:44.160666"
+        },
+        {
+            "status": "SHIPPED",
+            "timestamp": "2025-03-03T08:52:44.160666"
+        },
+        {
+            "status": "DELIVERED",
+            "timestamp": "2025-03-03T20:52:44.160666"
+        }
+    ],
+    "shipping": {
+        "method": "PRIORITY",
+        "carrier": "DHL",
+        "trackingNumber": "UPS-5F212F3114",
+        "estimatedDelivery": "2025-03-04T10:28:44.160666"
+    },
+    "sourceChannel": "MOBILE_APP",
+    "deviceInfo": {
+        "type": "OTHER",
+        "os": "WINDOWS",
+        "browser": "CHROME"
+    },
+    "region": "US",
+    "warehouseId": "CHICAGO-01",
+    "created": "2025-03-02T10:28:44.160666",
+    "updated": "2025-03-03T20:52:44.160666"
+}
+]
