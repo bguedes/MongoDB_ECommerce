@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Lankeleisi MG600 Plus 1000W 26 Fat Bike",
+    "image": "/images/bike.jpg",
+    "sku": "PROD-0108280",
+    "description":
+      "Very performant electric bike",
+    "brand": "Lankeleisi",
+    "category": "Bike",
+    "price": 1799.00,
+    "attributes": {
+      "speed": "25km/h",
+      "power": "48V 1000W",
+      "couple": "70 Nm",
+      "Slope capacity": "8 grams",
+      "batterie": "48v 20Ah (960Wh) Samsung Cellules",
+      "chargeur": "48V3a",
+      "Loading time": "6-7h"
+    },
+    "inventory": {
+      "total": 200,
+      "reserved": 50,
+      "available": 150,
+      "locations": [
+          {
+              "warehouse": "PARIS-01",
+              "quantity": 100
+          },
+          {
+              "warehouse": "LONDON-02",
+              "quantity": 50
+          }
+      ]
+    },
+    "countInStock": 20,
+    "rating": 0,
+    "numReviews": 0
+  },
+  {
+    "name": "Bugatti Veron",
+    "image": "/images/bugatti.jpg",
+    "sku": "PROD-0008150",
+    "description":
+      "The most powerfull car in earth. Promotional price. Hurry Up !!",
+    "brand": "Bugatti",
+    "category": "Car",
+    "price": 599999.00,
+    "attributes": {
+      "Fuel Type": "Gasoline",
+      "Engine(s)": "W16",
+      "Engine Position": "Longitudinal, Rear-Mid-Length",
+      "Displacement": "7,993 cc",
+      "Maximum Power": "1,001 to 1,200 hp DIN (736 to 882 kW)",
+      "Maximum Torque": "1,250 to 1,500 N m",
+      "Transmission": "All-Wheel Drive",
+      "Gearbox": "7-Speed ​Dual-Clutch Automatic with Sequential Shift Mode"
+    },
+    "inventory": {
+        "total": 10,
+        "reserved": 8,
+        "available": 2,
+        "locations": [
+            {
+                "warehouse": "DUBAI-01",
+                "quantity": 7
+            },
+            {
+                "warehouse": "PARIS-02",
+                "quantity": 3
+            }
+        ]
+    },
+    "countInStock": 3,
+    "rating": 0,
+    "numReviews": 0
+  },
+  {
+    "name": "R-Series Pedigree",
+    "image": "/images/moto.jpg",
+    "sku": "PROD-0009150",
+    "description":
+      "Yamaha R-Series of motorcycles today is led by the flagship YZF-R1 superbike, with the lineup including the YZF-R7, R3, R25, R15, and R125. Every sportbike comprising the R-Series family is designed to offer riding excitement to motorcyclists across the globe.",
+    "brand": "Yamaha",
+    "category": "Motor Bike",
+    "price": 18929.00,
+    "attributes": {
+      "Type": "998 cc",
+      "Bore × stroke": "74 mm × 58 mm",
+      "Fuel system": "Fuel Injection with YCC-T and YCC-I",
+      "Compression ratio": "13.0 : 1",
+      "Rear wheel horsepower": "162.4 hp",
+      "Maximum Torque": "1,250 to 1,500 N m",
+      "Transmission": "6-speed w/multi-plate coil spring slipper clutch",
+      "Brakes/Front": "Hydraulic dual disc, Ø 320 mm",
+      "Fuel capacity": "17 L",
+      "Top speed": "293 km/h (182 mph)"
+    },
+    "inventory": {
+      "total": 200,
+      "reserved": 50,
+      "available": 150,
+      "locations": [
+          {
+              "warehouse": "PARIS-01",
+              "quantity": 100
+          },
+          {
+              "warehouse": "LONDON-02",
+              "quantity": 50
+          }
+      ]
+    },
+    "countInStock": 15,
+    "rating": 0,
+    "numReviews": 0
+  }
+]
