@@ -13,6 +13,9 @@ cd ..
 npm run dev
 ----
 
+image::images/home.png[]
+
+image::images/productDetails.png[]
 
 In Compass show this Text to MQL generation:
 
