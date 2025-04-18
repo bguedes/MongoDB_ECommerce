@@ -1,5 +1,16 @@
 # MongoDB_ECommerce
 
+
+[,console]
+----
+cd backend
+npm install
+
+cd ../frontend
+npm install
+----
+
+
 In Compass show this Text to MQL generation:
 
 from products collection
