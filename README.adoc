@@ -37,7 +37,12 @@ npm install
 
 cd ..
 npm run dev
+----
 
+You will get this console message:
+
+[,console]
+----
 [0] 
 [0] > myonlineretail@1.0.0 server
 [0] > nodemon backend/server.js
