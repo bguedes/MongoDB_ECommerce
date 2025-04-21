@@ -65,6 +65,10 @@ You will get this console message:
 [0] MongoDB Connected: ac-j7p8rqq-shard-00-01.inog7xy.mongodb.net
 ----
 
+=== E-Commerce User Interface
+
+{blank} +
+
 After you can load the UI using http://localhost:8080/, you will get this home page:
 
 image::images/home.png[]
