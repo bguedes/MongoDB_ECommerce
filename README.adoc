@@ -12,6 +12,14 @@ This flexibility allows for rapid development, efficient querying, and seamless 
 By leveraging MongoDB's dynamic schema, the application supports complex e-commerce scenarios, including product variants, reviews, and order management, 
 all within a unified and agile data structure.
 
+== Pre-requisites
+
+. A https://account.mongodb.com/account/register[MongoDB Atlas free] account.
+. A modern browser - Google Chrome (IE, Firefox, Safari not supported).
+. Wifi Internet connection.
+. Git installed.
+. https://www.mongodb.com/try/download/compass[Compass] installed.
+
 [,console]
 ----
 git clone https://github.com/bguedes/MongoDB_ECommerce.git
