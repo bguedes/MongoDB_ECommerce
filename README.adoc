@@ -18,7 +18,12 @@ all within a unified and agile data structure.
 . A modern browser - Google Chrome (IE, Firefox, Safari not supported).
 . Wifi Internet connection.
 . Git installed.
+. Node.js and npm installed.
 . https://www.mongodb.com/try/download/compass[Compass] installed.
+
+== Step 1: Intall the local application
+
+Follow this steps:
 
 [,console]
 ----
