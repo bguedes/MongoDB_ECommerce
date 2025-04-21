@@ -15,7 +15,7 @@ all within a unified and agile data structure.
 == Pre-requisites
 
 . A https://account.mongodb.com/account/register[MongoDB Atlas free] account.
-. A modern browser - Google Chrome (IE, Firefox, Safari not supported).
+. A modern browser.
 . Wifi Internet connection.
 . Git installed.
 . Node.js and npm installed.
