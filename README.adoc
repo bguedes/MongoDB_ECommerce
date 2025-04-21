@@ -67,9 +67,9 @@ You will get this console message:
 
 === E-Commerce User Interface
 
-{blank} +
-
 After you can load the UI using http://localhost:8080/, you will get this home page:
+
+{blank} +
 
 image::images/home.png[]
 
