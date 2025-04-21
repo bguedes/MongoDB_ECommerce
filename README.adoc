@@ -1,5 +1,7 @@
 # MongoDB_ECommerce
 
+== Introduction
+
 MongoDB_ECommerce is a sample e-commerce application designed to showcase the flexibility of MongoDB's document-oriented data model. 
 It demonstrates how product, order, and user data can be represented using rich, nested documents and arrays, enabling easy adaptation to evolving business requirements. 
 
